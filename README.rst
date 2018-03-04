@@ -7,9 +7,9 @@ Please use and/or submit patches in there.
 .. image:: https://api.travis-ci.org/kra3/django-macaddress-ng.png?branch=master
    :alt: Build Status
    :target: https://travis-ci.org/kra3/django-macaddress-ng
-.. image:: https://pypip.in/v/django-macaddress-ng/badge.png
+.. image:: https://img.shields.io/pypi/v/django-macaddress-ng.svg
    :target: https://crate.io/packages/django-macaddress-ng
-.. image:: https://pypip.in/d/django-macaddress-ng/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-macaddress-ng.svg
    :target: https://crate.io/packages/django-macaddress-ng
 
 MAC Address model and form fields for Django
